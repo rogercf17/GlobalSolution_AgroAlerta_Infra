@@ -1,0 +1,1 @@
+# GlobalSolution_AgroAlerta_Infra

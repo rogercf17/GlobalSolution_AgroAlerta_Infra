@@ -1,0 +1,15 @@
+[Unit]
+Description=AgroAlerta - Servico de Monitoramento de Infraestrutura
+After=network.target
+
+[Service]
+Type=oneshot
+User=roger
+Group=roger
+WorkingDirectory=/home/roger/agroalerta-infra
+ExecStart=/usr/bin/bash /home/roger/agroalerta-infra/monitoring/monitor.sh
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

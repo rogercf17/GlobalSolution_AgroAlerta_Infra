@@ -1,0 +1,17 @@
+[Unit]
+Description=AgroAlerta - API de Monitoramento Agrícola
+After=network.target
+
+[Service]
+Type=simple
+User=roger
+Group=roger
+WorkingDirectory=/home/roger/agroalerta-infra/app
+Environment=ASPNETCORE_URLS=http://0.0.0.0:5000
+Environment=ASPNETCORE_ENVIRONMENT=Development
+ExecStart=/usr/bin/dotnet /home/roger/agroalerta-infra/app/AgroAlerta.dll
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

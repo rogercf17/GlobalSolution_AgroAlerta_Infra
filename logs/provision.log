@@ -1,0 +1,55 @@
+[2026-11-18 13:23:54] [INFO] ==========================================================
+[2026-11-18 13:23:54] [INFO] INÍCIO DO PROVISIONAMENTO - Projeto Agro-Alerta Infra
+[2026-11-18 13:23:54] [INFO] Executado por: roger (via sudo)
+[2026-11-18 13:23:54] [INFO] ==========================================================
+[2026-11-18 13:23:54] [INFO] Atualizando a lista de pacotes do sistema (apt-get update)...
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+A ler as listas de pacotes...
+[2026-11-18 13:24:16] [SUCESSO] Lista de pacotes atualizada com sucesso.
+[2026-11-18 13:24:16] [INFO] Verificando e instalando pacotes: curl wget git ufw htop net-tools unzip...
+A ler as listas de pacotes...
+A construir árvore de dependências...
+A ler a informação de estado...
+curl is already the newest version (8.5.0-2ubuntu10.16).
+wget is already the newest version (1.21.4-1ubuntu4.5).
+git is already the newest version (1:2.43.0-1ubuntu7.4).
+ufw is already the newest version (0.36.2-6).
+ufw está definido para ser instalado manualmente.
+htop is already the newest version (3.3.0-4build1).
+Pacotes sugeridos:
+  zip
+Serão instalados os seguintes NOVOS pacotes:
+  net-tools unzip
+0 pacotes actualizados, 2 pacotes novos instalados, 0 a remover e 3 não actualizados.
+É necessário obter 378 kB de arquivos.
+Após esta operação, serão utilizados 1195 kB adicionais de espaço em disco.
+Obter:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 net-tools amd64 2.10-0.1ubuntu4.4 [204 kB]
+Obter:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 unzip amd64 6.0-28ubuntu4.1 [174 kB]
+Obtidos 378 kB em 2s (212 kB/s)
+A seleccionar pacote anteriormente não seleccionado net-tools.
+(A ler a base de dados ... (A ler a base de dados ... 5%(A ler a base de dados ... 10%(A ler a base de dados ... 15%(A ler a base de dados ... 20%(A ler a base de dados ... 25%(A ler a base de dados ... 30%(A ler a base de dados ... 35%(A ler a base de dados ... 40%(A ler a base de dados ... 45%(A ler a base de dados ... 50%(A ler a base de dados ... 55%(A ler a base de dados ... 60%(A ler a base de dados ... 65%(A ler a base de dados ... 70%(A ler a base de dados ... 75%(A ler a base de dados ... 80%(A ler a base de dados ... 85%(A ler a base de dados ... 90%(A ler a base de dados ... 95%(A ler a base de dados ... 100%(A ler a base de dados ... 123631 ficheiros e diretórios atualmente instalados.)
+A preparar para desempacotar .../net-tools_2.10-0.1ubuntu4.4_amd64.deb ...
+A descompactar net-tools (2.10-0.1ubuntu4.4) ...
+A seleccionar pacote anteriormente não seleccionado unzip.
+A preparar para desempacotar .../unzip_6.0-28ubuntu4.1_amd64.deb ...
+A descompactar unzip (6.0-28ubuntu4.1) ...
+A instalar net-tools (2.10-0.1ubuntu4.4) ...
+A instalar unzip (6.0-28ubuntu4.1) ...
+A processar 'triggers' para man-db (2.12.0-4build2) ...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+[2026-11-18 13:24:26] [SUCESSO] Todas as ferramentas de infraestrutura estão instaladas.
+[2026-11-18 13:24:26] [SUCESSO] Provisionamento concluído sem erros!
+[2026-11-18 13:24:26] [INFO] TÉRMINO DO PROVISIONAMENTO - Duração total: 32s
+[2026-11-18 13:24:26] [INFO] ==========================================================

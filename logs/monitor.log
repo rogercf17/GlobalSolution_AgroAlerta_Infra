@@ -1,0 +1,399 @@
+[2026-11-18 13:39:48] [INFO] Monitoramento iniciado.
+[2026-11-18 13:39:48] [INFO] Uso da CPU: 2%
+[2026-11-18 13:39:48] [INFO] Uso da RAM: 10%
+[2026-11-18 13:39:48] [INFO] Uso do disco: 50%
+[2026-11-18 13:39:48] [INFO] Monitoramento finalizado.
+[2026-11-18 13:39:48] [INFO] ------------------------------------------
+[2026-11-19 19:19:29] [INFO] Monitoramento iniciado.
+[2026-11-19 19:19:29] [INFO] Uso da CPU: 3%
+[2026-11-19 19:19:29] [INFO] Uso da RAM: 10%
+[2026-11-19 19:19:29] [INFO] Uso do disco: 50%
+[2026-11-19 19:19:29] [INFO] Monitoramento finalizado.
+[2026-11-19 19:19:29] [INFO] ------------------------------------------
+[2026-11-19 19:20:35] [INFO] Monitoramento iniciado.
+[2026-11-19 19:20:35] [INFO] Uso da CPU: 3%
+[2026-11-19 19:20:35] [INFO] Uso da RAM: 10%
+[2026-11-19 19:20:35] [INFO] Uso do disco: 50%
+[2026-11-19 19:20:35] [INFO] Monitoramento finalizado.
+[2026-11-19 19:20:35] [INFO] ------------------------------------------
+[2026-11-19 19:21:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:21:40] [INFO] Uso da CPU: 2%
+[2026-11-19 19:21:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:21:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:21:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:21:40] [INFO] ------------------------------------------
+[2026-11-19 19:23:09] [INFO] Monitoramento iniciado.
+[2026-11-19 19:23:09] [INFO] Uso da CPU: 2%
+[2026-11-19 19:23:09] [INFO] Uso da RAM: 10%
+[2026-11-19 19:23:09] [INFO] Uso do disco: 50%
+[2026-11-19 19:23:09] [ALERTA] Uso da CPU acima do limite: 2%
+[2026-11-19 19:23:09] [INFO] Monitoramento finalizado.
+[2026-11-19 19:23:09] [INFO] ------------------------------------------
+[2026-11-19 19:24:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:24:40] [INFO] Uso da CPU: 2%
+[2026-11-19 19:24:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:24:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:24:40] [ALERTA] Uso da CPU acima do limite: 2%
+[2026-11-19 19:24:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:24:40] [INFO] ------------------------------------------
+[2026-11-19 19:25:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:25:40] [INFO] Uso da CPU: 4%
+[2026-11-19 19:25:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:25:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:25:40] [ALERTA] Uso da CPU acima do limite: 4%
+[2026-11-19 19:25:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:25:40] [INFO] ------------------------------------------
+[2026-11-19 19:27:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:27:40] [INFO] Uso da CPU: 2%
+[2026-11-19 19:27:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:27:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:27:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:27:40] [INFO] ------------------------------------------
+[2026-11-19 19:29:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:29:40] [INFO] Uso da CPU: 2%
+[2026-11-19 19:29:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:29:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:29:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:29:40] [INFO] ------------------------------------------
+[2026-11-19 19:30:49] [INFO] Monitoramento iniciado.
+[2026-11-19 19:30:49] [INFO] Uso da CPU: 19%
+[2026-11-19 19:30:49] [INFO] Uso da RAM: 10%
+[2026-11-19 19:30:49] [INFO] Uso do disco: 50%
+[2026-11-19 19:30:49] [INFO] Monitoramento finalizado.
+[2026-11-19 19:30:49] [INFO] ------------------------------------------
+[2026-11-19 19:31:57] [INFO] Monitoramento iniciado.
+[2026-11-19 19:31:57] [INFO] Uso da CPU: 2%
+[2026-11-19 19:31:57] [INFO] Uso da RAM: 10%
+[2026-11-19 19:31:57] [INFO] Uso do disco: 50%
+[2026-11-19 19:31:57] [INFO] Monitoramento finalizado.
+[2026-11-19 19:31:57] [INFO] ------------------------------------------
+[2026-11-19 19:33:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:33:40] [INFO] Uso da CPU: 2%
+[2026-11-19 19:33:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:33:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:33:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:33:40] [INFO] ------------------------------------------
+[2026-11-19 19:35:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:35:40] [INFO] Uso da CPU: 1%
+[2026-11-19 19:35:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:35:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:35:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:35:40] [INFO] ------------------------------------------
+[2026-11-19 19:37:30] [INFO] Monitoramento iniciado.
+[2026-11-19 19:37:30] [INFO] Uso da CPU: 1%
+[2026-11-19 19:37:30] [INFO] Uso da RAM: 10%
+[2026-11-19 19:37:30] [INFO] Uso do disco: 50%
+[2026-11-19 19:37:30] [INFO] Monitoramento finalizado.
+[2026-11-19 19:37:30] [INFO] ------------------------------------------
+[2026-11-19 19:38:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:38:40] [INFO] Uso da CPU: 4%
+[2026-11-19 19:38:40] [INFO] Uso da RAM: 10%
+[2026-11-19 19:38:40] [INFO] Uso do disco: 50%
+[2026-11-19 19:38:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:38:40] [INFO] ------------------------------------------
+[2026-11-19 19:40:00] [INFO] Monitoramento iniciado.
+[2026-11-19 19:40:00] [INFO] Uso da CPU: 3%
+[2026-11-19 19:40:00] [INFO] Uso da RAM: 10%
+[2026-11-19 19:40:00] [INFO] Uso do disco: 50%
+[2026-11-19 19:40:00] [INFO] Monitoramento finalizado.
+[2026-11-19 19:40:00] [INFO] ------------------------------------------
+[2026-11-19 19:41:01] [INFO] Monitoramento iniciado.
+[2026-11-19 19:41:01] [INFO] Uso da CPU: 28%
+[2026-11-19 19:41:01] [INFO] Uso da RAM: 12%
+[2026-11-19 19:41:01] [INFO] Uso do disco: 50%
+[2026-11-19 19:41:01] [INFO] Monitoramento finalizado.
+[2026-11-19 19:41:01] [INFO] ------------------------------------------
+[2026-11-19 19:42:18] [INFO] Monitoramento iniciado.
+[2026-11-19 19:42:18] [INFO] Uso da CPU: 44%
+[2026-11-19 19:42:18] [INFO] Uso da RAM: 12%
+[2026-11-19 19:42:18] [INFO] Uso do disco: 51%
+[2026-11-19 19:42:18] [INFO] Monitoramento finalizado.
+[2026-11-19 19:42:18] [INFO] ------------------------------------------
+[2026-11-19 19:43:40] [INFO] Monitoramento iniciado.
+[2026-11-19 19:43:40] [INFO] Uso da CPU: 4%
+[2026-11-19 19:43:40] [INFO] Uso da RAM: 11%
+[2026-11-19 19:43:40] [INFO] Uso do disco: 55%
+[2026-11-19 19:43:40] [INFO] Monitoramento finalizado.
+[2026-11-19 19:43:40] [INFO] ------------------------------------------
+[2026-11-19 19:45:37] [INFO] Monitoramento iniciado.
+[2026-11-19 19:45:37] [INFO] Uso da CPU: 1%
+[2026-11-19 19:45:37] [INFO] Uso da RAM: 11%
+[2026-11-19 19:45:37] [INFO] Uso do disco: 55%
+[2026-11-19 19:45:37] [INFO] Monitoramento finalizado.
+[2026-11-19 19:45:37] [INFO] ------------------------------------------
+[2026-11-19 19:46:41] [INFO] Monitoramento iniciado.
+[2026-11-19 19:46:41] [INFO] Uso da CPU: 2%
+[2026-11-19 19:46:41] [INFO] Uso da RAM: 11%
+[2026-11-19 19:46:41] [INFO] Uso do disco: 55%
+[2026-11-19 19:46:41] [INFO] Monitoramento finalizado.
+[2026-11-19 19:46:41] [INFO] ------------------------------------------
+[2026-11-19 19:48:35] [INFO] Monitoramento iniciado.
+[2026-11-19 19:48:35] [INFO] Uso da CPU: 3%
+[2026-11-19 19:48:35] [INFO] Uso da RAM: 10%
+[2026-11-19 19:48:35] [INFO] Uso do disco: 55%
+[2026-11-19 19:48:35] [INFO] Monitoramento finalizado.
+[2026-11-19 19:48:35] [INFO] ------------------------------------------
+[2026-11-19 19:50:00] [INFO] Monitoramento iniciado.
+[2026-11-19 19:50:00] [INFO] Uso da CPU: 4%
+[2026-11-19 19:50:00] [INFO] Uso da RAM: 10%
+[2026-11-19 19:50:00] [INFO] Uso do disco: 55%
+[2026-11-19 19:50:00] [INFO] Monitoramento finalizado.
+[2026-11-19 19:50:00] [INFO] ------------------------------------------
+[2026-11-19 19:51:10] [INFO] Monitoramento iniciado.
+[2026-11-19 19:51:10] [INFO] Uso da CPU: 2%
+[2026-11-19 19:51:10] [INFO] Uso da RAM: 10%
+[2026-11-19 19:51:10] [INFO] Uso do disco: 55%
+[2026-11-19 19:51:10] [INFO] Monitoramento finalizado.
+[2026-11-19 19:51:10] [INFO] ------------------------------------------
+[2026-11-19 19:52:39] [INFO] Monitoramento iniciado.
+[2026-11-19 19:52:39] [INFO] Uso da CPU: 0%
+[2026-11-19 19:52:39] [INFO] Uso da RAM: 10%
+[2026-11-19 19:52:39] [INFO] Uso do disco: 55%
+[2026-11-19 19:52:39] [INFO] Monitoramento finalizado.
+[2026-11-19 19:52:39] [INFO] ------------------------------------------
+[2026-11-19 19:53:54] [INFO] Monitoramento iniciado.
+[2026-11-19 19:53:54] [INFO] Uso da CPU: 4%
+[2026-11-19 19:53:54] [INFO] Uso da RAM: 10%
+[2026-11-19 19:53:54] [INFO] Uso do disco: 55%
+[2026-11-19 19:53:54] [INFO] Monitoramento finalizado.
+[2026-11-19 19:53:54] [INFO] ------------------------------------------
+[2026-11-19 19:55:12] [INFO] Monitoramento iniciado.
+[2026-11-19 19:55:12] [INFO] Uso da CPU: 2%
+[2026-11-19 19:55:12] [INFO] Uso da RAM: 10%
+[2026-11-19 19:55:12] [INFO] Uso do disco: 55%
+[2026-11-19 19:55:12] [INFO] Monitoramento finalizado.
+[2026-11-19 19:55:12] [INFO] ------------------------------------------
+[2026-11-19 19:56:25] [INFO] Monitoramento iniciado.
+[2026-11-19 19:56:25] [INFO] Uso da CPU: 2%
+[2026-11-19 19:56:25] [INFO] Uso da RAM: 10%
+[2026-11-19 19:56:25] [INFO] Uso do disco: 55%
+[2026-11-19 19:56:25] [INFO] Monitoramento finalizado.
+[2026-11-19 19:56:25] [INFO] ------------------------------------------
+[2026-11-19 20:24:51] [INFO] Monitoramento iniciado.
+[2026-11-19 20:24:51] [INFO] Uso da CPU: 8%
+[2026-11-19 20:24:51] [INFO] Uso da RAM: 10%
+[2026-11-19 20:24:51] [INFO] Uso do disco: 56%
+[2026-11-19 20:24:51] [INFO] Monitoramento finalizado.
+[2026-11-19 20:24:51] [INFO] ------------------------------------------
+[2026-11-19 20:25:58] [INFO] Monitoramento iniciado.
+[2026-11-19 20:25:58] [INFO] Uso da CPU: 16%
+[2026-11-19 20:25:58] [INFO] Uso da RAM: 11%
+[2026-11-19 20:25:58] [INFO] Uso do disco: 56%
+[2026-11-19 20:25:58] [INFO] Monitoramento finalizado.
+[2026-11-19 20:25:58] [INFO] ------------------------------------------
+[2026-11-19 20:27:01] [INFO] Monitoramento iniciado.
+[2026-11-19 20:27:01] [INFO] Uso da CPU: 11%
+[2026-11-19 20:27:01] [INFO] Uso da RAM: 10%
+[2026-11-19 20:27:01] [INFO] Uso do disco: 56%
+[2026-11-19 20:27:01] [INFO] Monitoramento finalizado.
+[2026-11-19 20:27:01] [INFO] ------------------------------------------
+[2026-11-19 20:28:08] [INFO] Monitoramento iniciado.
+[2026-11-19 20:28:08] [INFO] Uso da CPU: 11%
+[2026-11-19 20:28:08] [INFO] Uso da RAM: 10%
+[2026-11-19 20:28:08] [INFO] Uso do disco: 56%
+[2026-11-19 20:28:08] [INFO] Monitoramento finalizado.
+[2026-11-19 20:28:08] [INFO] ------------------------------------------
+[2026-11-19 20:29:11] [INFO] Monitoramento iniciado.
+[2026-11-19 20:29:11] [INFO] Uso da CPU: 40%
+[2026-11-19 20:29:11] [INFO] Uso da RAM: 10%
+[2026-11-19 20:29:11] [INFO] Uso do disco: 56%
+[2026-11-19 20:29:11] [INFO] Monitoramento finalizado.
+[2026-11-19 20:29:11] [INFO] ------------------------------------------
+[2026-11-19 20:30:21] [INFO] Monitoramento iniciado.
+[2026-11-19 20:30:21] [INFO] Uso da CPU: 9%
+[2026-11-19 20:30:21] [INFO] Uso da RAM: 11%
+[2026-11-19 20:30:21] [INFO] Uso do disco: 56%
+[2026-11-19 20:30:21] [INFO] Monitoramento finalizado.
+[2026-11-19 20:30:21] [INFO] ------------------------------------------
+[2026-11-19 20:32:14] [INFO] Monitoramento iniciado.
+[2026-11-19 20:32:14] [INFO] Uso da CPU: 32%
+[2026-11-19 20:32:14] [INFO] Uso da RAM: 11%
+[2026-11-19 20:32:14] [INFO] Uso do disco: 56%
+[2026-11-19 20:32:14] [INFO] Monitoramento finalizado.
+[2026-11-19 20:32:14] [INFO] ------------------------------------------
+[2026-11-19 21:04:32] [INFO] Monitoramento iniciado.
+[2026-11-19 21:04:32] [INFO] Uso da CPU: 9%
+[2026-11-19 21:04:32] [INFO] Uso da RAM: 11%
+[2026-11-19 21:04:32] [INFO] Uso do disco: 56%
+[2026-11-19 21:04:32] [INFO] Monitoramento finalizado.
+[2026-11-19 21:04:32] [INFO] ------------------------------------------
+[2026-11-19 21:05:47] [INFO] Monitoramento iniciado.
+[2026-11-19 21:05:47] [INFO] Uso da CPU: 8%
+[2026-11-19 21:05:47] [INFO] Uso da RAM: 11%
+[2026-11-19 21:05:47] [INFO] Uso do disco: 56%
+[2026-11-19 21:05:47] [INFO] Monitoramento finalizado.
+[2026-11-19 21:05:47] [INFO] ------------------------------------------
+[2026-11-19 21:06:58] [INFO] Monitoramento iniciado.
+[2026-11-19 21:06:58] [INFO] Uso da CPU: 25%
+[2026-11-19 21:06:58] [INFO] Uso da RAM: 11%
+[2026-11-19 21:06:58] [INFO] Uso do disco: 56%
+[2026-11-19 21:06:58] [INFO] Monitoramento finalizado.
+[2026-11-19 21:06:58] [INFO] ------------------------------------------
+[2026-11-19 21:08:47] [INFO] Monitoramento iniciado.
+[2026-11-19 21:08:47] [INFO] Uso da CPU: 10%
+[2026-11-19 21:08:47] [INFO] Uso da RAM: 11%
+[2026-11-19 21:08:47] [INFO] Uso do disco: 56%
+[2026-11-19 21:08:47] [INFO] Monitoramento finalizado.
+[2026-11-19 21:08:47] [INFO] ------------------------------------------
+[2026-11-19 21:09:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:09:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:09:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:09:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:09:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:09:57] [INFO] ------------------------------------------
+[2026-11-19 21:11:08] [INFO] Monitoramento iniciado.
+[2026-11-19 21:11:08] [INFO] Uso da CPU: 9%
+[2026-11-19 21:11:08] [INFO] Uso da RAM: 11%
+[2026-11-19 21:11:08] [INFO] Uso do disco: 56%
+[2026-11-19 21:11:08] [INFO] Monitoramento finalizado.
+[2026-11-19 21:11:08] [INFO] ------------------------------------------
+[2026-11-19 21:12:09] [INFO] Monitoramento iniciado.
+[2026-11-19 21:12:09] [INFO] Uso da CPU: 9%
+[2026-11-19 21:12:09] [INFO] Uso da RAM: 11%
+[2026-11-19 21:12:09] [INFO] Uso do disco: 56%
+[2026-11-19 21:12:09] [INFO] Monitoramento finalizado.
+[2026-11-19 21:12:09] [INFO] ------------------------------------------
+[2026-11-19 21:13:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:13:57] [INFO] Uso da CPU: 8%
+[2026-11-19 21:13:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:13:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:13:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:13:57] [INFO] ------------------------------------------
+[2026-11-19 21:15:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:15:57] [INFO] Uso da CPU: 11%
+[2026-11-19 21:15:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:15:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:15:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:15:57] [INFO] ------------------------------------------
+[2026-11-19 21:17:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:17:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:17:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:17:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:17:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:17:57] [INFO] ------------------------------------------
+[2026-11-19 21:18:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:18:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:18:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:18:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:18:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:18:57] [INFO] ------------------------------------------
+[2026-11-19 21:20:26] [INFO] Monitoramento iniciado.
+[2026-11-19 21:20:26] [INFO] Uso da CPU: 9%
+[2026-11-19 21:20:26] [INFO] Uso da RAM: 11%
+[2026-11-19 21:20:26] [INFO] Uso do disco: 56%
+[2026-11-19 21:20:26] [INFO] Monitoramento finalizado.
+[2026-11-19 21:20:26] [INFO] ------------------------------------------
+[2026-11-19 21:21:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:21:57] [INFO] Uso da CPU: 8%
+[2026-11-19 21:21:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:21:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:21:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:21:57] [INFO] ------------------------------------------
+[2026-11-19 21:23:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:23:57] [INFO] Uso da CPU: 10%
+[2026-11-19 21:23:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:23:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:23:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:23:57] [INFO] ------------------------------------------
+[2026-11-19 21:25:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:25:57] [INFO] Uso da CPU: 49%
+[2026-11-19 21:25:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:25:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:25:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:25:57] [INFO] ------------------------------------------
+[2026-11-19 21:27:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:27:57] [INFO] Uso da CPU: 10%
+[2026-11-19 21:27:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:27:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:27:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:27:57] [INFO] ------------------------------------------
+[2026-11-19 21:29:26] [INFO] Monitoramento iniciado.
+[2026-11-19 21:29:26] [INFO] Uso da CPU: 55%
+[2026-11-19 21:29:26] [INFO] Uso da RAM: 12%
+[2026-11-19 21:29:26] [INFO] Uso do disco: 56%
+[2026-11-19 21:29:27] [INFO] Monitoramento finalizado.
+[2026-11-19 21:29:27] [INFO] ------------------------------------------
+[2026-11-19 21:30:26] [INFO] Monitoramento iniciado.
+[2026-11-19 21:30:26] [INFO] Uso da CPU: 9%
+[2026-11-19 21:30:26] [INFO] Uso da RAM: 12%
+[2026-11-19 21:30:26] [INFO] Uso do disco: 56%
+[2026-11-19 21:30:26] [INFO] Monitoramento finalizado.
+[2026-11-19 21:30:26] [INFO] ------------------------------------------
+[2026-11-19 21:31:37] [INFO] Monitoramento iniciado.
+[2026-11-19 21:31:37] [INFO] Uso da CPU: 10%
+[2026-11-19 21:31:37] [INFO] Uso da RAM: 12%
+[2026-11-19 21:31:37] [INFO] Uso do disco: 56%
+[2026-11-19 21:31:37] [INFO] Monitoramento finalizado.
+[2026-11-19 21:31:37] [INFO] ------------------------------------------
+[2026-11-19 21:32:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:32:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:32:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:32:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:32:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:32:57] [INFO] ------------------------------------------
+[2026-11-19 21:34:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:34:57] [INFO] Uso da CPU: 12%
+[2026-11-19 21:34:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:34:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:34:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:34:57] [INFO] ------------------------------------------
+[2026-11-19 21:36:36] [INFO] Monitoramento iniciado.
+[2026-11-19 21:36:36] [INFO] Uso da CPU: 11%
+[2026-11-19 21:36:36] [INFO] Uso da RAM: 12%
+[2026-11-19 21:36:36] [INFO] Uso do disco: 56%
+[2026-11-19 21:36:36] [INFO] Monitoramento finalizado.
+[2026-11-19 21:36:36] [INFO] ------------------------------------------
+[2026-11-19 21:37:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:37:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:37:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:37:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:37:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:37:57] [INFO] ------------------------------------------
+[2026-11-19 21:39:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:39:57] [INFO] Uso da CPU: 10%
+[2026-11-19 21:39:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:39:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:39:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:39:57] [INFO] ------------------------------------------
+[2026-11-19 21:41:58] [INFO] Monitoramento iniciado.
+[2026-11-19 21:41:58] [INFO] Uso da CPU: 25%
+[2026-11-19 21:41:58] [INFO] Uso da RAM: 12%
+[2026-11-19 21:41:58] [INFO] Uso do disco: 56%
+[2026-11-19 21:41:59] [INFO] Monitoramento finalizado.
+[2026-11-19 21:41:59] [INFO] ------------------------------------------
+[2026-11-19 21:43:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:43:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:43:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:43:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:43:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:43:57] [INFO] ------------------------------------------
+[2026-11-19 21:45:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:45:57] [INFO] Uso da CPU: 12%
+[2026-11-19 21:45:57] [INFO] Uso da RAM: 12%
+[2026-11-19 21:45:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:45:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:45:57] [INFO] ------------------------------------------
+[2026-11-19 21:47:15] [INFO] Monitoramento iniciado.
+[2026-11-19 21:47:15] [INFO] Uso da CPU: 8%
+[2026-11-19 21:47:15] [INFO] Uso da RAM: 12%
+[2026-11-19 21:47:15] [INFO] Uso do disco: 56%
+[2026-11-19 21:47:15] [INFO] Monitoramento finalizado.
+[2026-11-19 21:47:15] [INFO] ------------------------------------------
+[2026-11-19 21:48:57] [INFO] Monitoramento iniciado.
+[2026-11-19 21:48:57] [INFO] Uso da CPU: 9%
+[2026-11-19 21:48:57] [INFO] Uso da RAM: 11%
+[2026-11-19 21:48:57] [INFO] Uso do disco: 56%
+[2026-11-19 21:48:57] [INFO] Monitoramento finalizado.
+[2026-11-19 21:48:57] [INFO] ------------------------------------------
+[2026-11-19 21:50:26] [INFO] Monitoramento iniciado.
+[2026-11-19 21:50:26] [INFO] Uso da CPU: 12%
+[2026-11-19 21:50:26] [INFO] Uso da RAM: 11%
+[2026-11-19 21:50:26] [INFO] Uso do disco: 56%
+[2026-11-19 21:50:26] [INFO] Monitoramento finalizado.
+[2026-11-19 21:50:26] [INFO] ------------------------------------------
+[2026-11-19 21:51:58] [INFO] Monitoramento iniciado.
+[2026-11-19 21:51:58] [INFO] Uso da CPU: 29%
+[2026-11-19 21:51:58] [INFO] Uso da RAM: 12%
+[2026-11-19 21:51:59] [INFO] Uso do disco: 56%
+[2026-11-19 21:51:59] [INFO] Monitoramento finalizado.
+[2026-11-19 21:51:59] [INFO] ------------------------------------------
