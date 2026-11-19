@@ -1,5 +1,18 @@
 # AgroAlerta + AgroVigia — Infraestrutura Linux
 
+## Informações acadêmicas
+
+**Instituição:** FIAP  
+**Projeto:** Global Solution 2026  
+**Solução:** AgroAlerta + AgroVigia — Monitoramento Inteligente do Campo  
+**Turma:** 3ESPW  
+**Autores:** 
+* Artur Alves Tenca | RM: 555171
+* João Pedro Signor Avelar | RM: 558573
+* Roger Cardoso Ferreira | RM: 557230
+
+---
+
 ## 1. Sobre o projeto
 
 O **AgroAlerta + AgroVigia** é uma solução de monitoramento inteligente do campo, desenvolvida como parte do projeto Global Solution 2026 da FIAP.
@@ -229,13 +242,3 @@ Durante a implementação, foram realizados testes para verificar o funcionament
 A infraestrutura Linux foi desenvolvida para demonstrar o provisionamento automatizado, a hospedagem de uma aplicação web, o gerenciamento de serviços e o monitoramento dos recursos computacionais.
 
 A solução integra automação com Shell Script, gerenciamento de serviços com Systemd e monitoramento periódico, oferecendo uma base funcional para a execução do AgroAlerta em ambiente Linux.
-
----
-
-## 13. Informações acadêmicas
-
-**Instituição:** FIAP  
-**Projeto:** Global Solution 2026  
-**Solução:** AgroAlerta + AgroVigia — Monitoramento Inteligente do Campo  
-**Repositório:** GlobalSolution_AgroAlerta_Infra  
-**Autor:** Roger Cardoso Ferreira
