@@ -1,4 +1,3 @@
-AGROALERTA - EVIDENCIAS DE INFRAESTRUTURA
  Static hostname: agroalertaserver
        Icon name: computer-vm
          Chassis: vm 🖴
@@ -13,42 +12,39 @@ Operating System: Ubuntu 24.04.5 LTS
 Firmware Version: VirtualBox
    Firmware Date: Fri 2006-12-01
     Firmware Age: 19y 11month 2w 5d
-lo               UNKNOWN        127.0.0.1/8 ::1/128 
-enp0s3           UP             10.0.2.15/24 metric 100 fd17:625c:f037:2:a00:27ff:fe4f:df31/64 fe80::a00:27ff:fe4f:df31/64 
-               total        used        free      shared  buff/cache   available
-Mem:           3,8Gi       442Mi       3,3Gi        13Mi       284Mi       3,4Gi
-Swap:          2,2Gi          0B       2,2Gi
-Filesystem                         Size  Used Avail Use% Mounted on
-tmpfs                              392M  1,1M  391M   1% /run
-/dev/mapper/ubuntu--vg-ubuntu--lv   12G  6,0G  4,7G  56% /
-tmpfs                              2,0G  8,0K  2,0G   1% /dev/shm
-tmpfs                              5,0M     0  5,0M   0% /run/lock
-/dev/sda2                          2,0G  200M  1,6G  11% /boot
-Downloads                          223G  212G   11G  96% /media/sf_Downloads
-tmpfs                              392M   12K  392M   1% /run/user/1000
-● agroalerta-api.service - AgroAlerta - API de Monitoramento Agrícola
-     Loaded: loaded (/etc/systemd/system/agroalerta-api.service; enabled; preset: enabled)
-     Active: active (running) since Thu 2026-11-19 21:04:06 UTC; 22min ago
-   Main PID: 681 (dotnet)
-      Tasks: 19 (limit: 4600)
-     Memory: 93.0M (peak: 94.5M)
-        CPU: 5.246s
-     CGroup: /system.slice/agroalerta-api.service
-             └─681 /usr/bin/dotnet /home/roger/agroalerta-infra/app/AgroAlerta.dll
-
-nov 19 21:04:06 agroalertaserver systemd[1]: Started agroalerta-api.service - AgroAlerta - API de Monitoramento Agrícola.
-nov 19 21:04:14 agroalertaserver dotnet[681]: info: Microsoft.Hosting.Lifetime[14]
-nov 19 21:04:14 agroalertaserver dotnet[681]:       Now listening on: http://0.0.0.0:5000
-nov 19 21:04:14 agroalertaserver dotnet[681]: info: Microsoft.Hosting.Lifetime[0]
-nov 19 21:04:14 agroalertaserver dotnet[681]:       Application started. Press Ctrl+C to shut down.
-nov 19 21:04:14 agroalertaserver dotnet[681]: info: Microsoft.Hosting.Lifetime[0]
-nov 19 21:04:14 agroalertaserver dotnet[681]:       Hosting environment: Development
-nov 19 21:04:14 agroalertaserver dotnet[681]: info: Microsoft.Hosting.Lifetime[0]
-nov 19 21:04:14 agroalertaserver dotnet[681]:       Content root path: /home/roger/agroalerta-infra/app
-● agroalerta-monitor.timer - AgroAlerta - Agendamento de Monitoramento
-     Loaded: loaded (/etc/systemd/system/agroalerta-monitor.timer; enabled; preset: enabled)
-     Active: active (waiting) since Thu 2026-11-19 21:04:06 UTC; 22min ago
-    Trigger: Thu 2026-11-19 21:26:56 UTC; 14s left
-   Triggers: ● agroalerta-monitor.service
-
-nov 19 21:04:06 agroalertaserver systemd[1]: Started agroalerta-monitor.timer - AgroAlerta - Agendamento de Monitoramento.
+===== RECURSOS =====
+ 22:21:41 up  1:18,  1 user,  load average: 0,00, 0,02, 0,04
+===== SERVIÇOS =====
+active
+active
+===== MONITORAMENTO =====
+[2026-11-19 22:13:21] [INFO] Monitoramento iniciado.
+[2026-11-19 22:13:21] [INFO] Uso da CPU: 9%
+[2026-11-19 22:13:21] [INFO] Uso da RAM: 11%
+[2026-11-19 22:13:21] [INFO] Uso do disco: 56%
+[2026-11-19 22:13:21] [INFO] Monitoramento finalizado.
+[2026-11-19 22:13:21] [INFO] ------------------------------------------
+[2026-11-19 22:14:57] [INFO] Monitoramento iniciado.
+[2026-11-19 22:14:57] [INFO] Uso da CPU: 13%
+[2026-11-19 22:14:57] [INFO] Uso da RAM: 11%
+[2026-11-19 22:14:57] [INFO] Uso do disco: 56%
+[2026-11-19 22:14:57] [INFO] Monitoramento finalizado.
+[2026-11-19 22:14:57] [INFO] ------------------------------------------
+[2026-11-19 22:16:26] [INFO] Monitoramento iniciado.
+[2026-11-19 22:16:26] [INFO] Uso da CPU: 16%
+[2026-11-19 22:16:26] [INFO] Uso da RAM: 11%
+[2026-11-19 22:16:26] [INFO] Uso do disco: 56%
+[2026-11-19 22:16:26] [INFO] Monitoramento finalizado.
+[2026-11-19 22:16:26] [INFO] ------------------------------------------
+[2026-11-19 22:17:57] [INFO] Monitoramento iniciado.
+[2026-11-19 22:17:57] [INFO] Uso da CPU: 8%
+[2026-11-19 22:17:57] [INFO] Uso da RAM: 11%
+[2026-11-19 22:17:57] [INFO] Uso do disco: 56%
+[2026-11-19 22:17:57] [INFO] Monitoramento finalizado.
+[2026-11-19 22:17:57] [INFO] ------------------------------------------
+[2026-11-19 22:19:57] [INFO] Monitoramento iniciado.
+[2026-11-19 22:19:57] [INFO] Uso da CPU: 9%
+[2026-11-19 22:19:57] [INFO] Uso da RAM: 11%
+[2026-11-19 22:19:57] [INFO] Uso do disco: 56%
+[2026-11-19 22:19:57] [INFO] Monitoramento finalizado.
+[2026-11-19 22:19:57] [INFO] ------------------------------------------
